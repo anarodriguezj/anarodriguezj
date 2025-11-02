@@ -1,17 +1,48 @@
-## Hi there 👋
+<div align="center" width="50">
+    <img alt="hi there" src="./assets/oh_hi_there.png" width="300"/>
+</div>
 
-<!--
-🎓 I'm studying **Mathematical Engineering and Artificial Intelligence** at Universidad Pontificia Comillas (ICADE - ICAI).
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ana Rodríguez Jaraba</h1>
 
-💡 I'm passionate about **AI, quantitative finance, and autonomous robotics**. I enjoy solving analytical problems and exploring how mathematics can power intelligent systems and financial models.
+![GitHub followers](https://img.shields.io/github/followers/anarodriguezj?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/anarodriguezj?style=social)
+<img src="https://komarev.com/ghpvc/?username=anarodriguezj" alt="anarodriguezj" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## About Me ✨
+
+- 🎓 Currently studying **Mathematical Engineering & Artificial Intelligence** at **ICAI - Universidad Pontificia Comillas**
+- 📍 Based in **Madrid, Spain**
+- 💭 Interested in **quantitative finance**
+- ⚡ **Fun facts:** 🏋🏽‍♀️ 🎾 🐕 ☀️ 🤿
+
+<br>
+
+## Connect with me ☕  
+
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "@anarodriguezjaraba")](https://www.linkedin.com/in/anarodriguezjaraba/)
+[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png "Email")](mailto:anarodriguezjaraba@gmail.com)
+[![GitHub](https://img.icons8.com/fluency/48/000000/github.png "GitHub")](https://github.com/anarodriguezj)
+
+<br>
+
+## What I’m Good At 🧑‍💻  
+
+<img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+<img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+
+<br>
+
+## GitHub Stats 📈  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anarodriguezj&theme=algolia)](https://git.io/streak-stats)  
+[![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarodriguezj&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarodriguezj&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+Credit: [anarodriguezj](https://github.com/anarodriguezj)  
+Last edited on: 02/11/2025

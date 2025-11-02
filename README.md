@@ -39,6 +39,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarodriguezj&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-Credit: [anarodriguezj](https://github.com/anarodriguezj)  
-Last edited on: 02/11/2025

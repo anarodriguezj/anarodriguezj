@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--
-**anarodriguezj/anarodriguezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm studying **Mathematical Engineering and Artificial Intelligence** at Universidad Pontificia Comillas (ICADE - ICAI).
+
+💡 I'm passionate about **AI, quantitative finance, and autonomous robotics**. I enjoy solving analytical problems and exploring how mathematics can power intelligent systems and financial models.
 
 Here are some ideas to get you started:
 
@@ -11,6 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
